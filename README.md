@@ -1,6 +1,6 @@
-# Concrete Testnet Scripts 🚀
+# Concrete Social Scripts 🚀
 
-This collection of Python scripts empowers you to interact seamlessly with the Concrete Testnet, a blockchain test network for decentralized applications. The core script, `main.py`, offers automation and multi-account support for core testnet activities.
+This collection of Python scripts empowers you to interact seamlessly with the Concrete Social, a blockchain test network for decentralized applications. The core script, `main.py`, offers automation and multi-account support for core testnet activities.
 
 🔗 Register: [Concrete](https://points.concrete.xyz/home)
 
